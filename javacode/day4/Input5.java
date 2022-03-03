@@ -17,5 +17,14 @@ public class Input5 {
 		char area = id.charAt(2);
 		System.out.printf("area = %c\n", area);
 
+		// 判斷男女
+		if(sex == '1') {
+			System.out.println("男性");
+		} else if(sex == '2') {
+			System.out.println("女性");
+		} else {
+			System.out.println("性別錯誤");
+		}
+
 	}
 }
