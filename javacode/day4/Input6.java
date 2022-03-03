@@ -14,8 +14,25 @@ public class Input6 {
 		Scanner sc = new Scanner(System.in);
 		System.out.print("Please input score = ");
 		int score = sc.nextInt();
+		int level = score / 10;
+		switch(level) {
+			case 10:
+			case 9:	
+				System.out.println("A");
+				break;
+			case 8:	
+				System.out.println("B");
+				break;
+			case 7:	
+				System.out.println("C");
+				break;
+			case 6:	
+				System.out.println("D");
+				break;
+			default:	
+				System.out.println("E");
+		}
 
-		
-		
+
 	}
 }
