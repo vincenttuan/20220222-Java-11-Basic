@@ -5,7 +5,7 @@ import java.util.Random;
 
 public class DoWhileDemo2 {
 	public static void main(String[] args) {
-		int ans = 31;
+		int ans = new Random().nextInt(99)+1;
 		int min = 0;
 		int max = 100;
 		do {
