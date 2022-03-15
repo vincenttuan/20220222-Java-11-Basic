@@ -3,3 +3,8 @@
 
 OpenJDK Download
 https://github.com/ojdkbuild/ojdkbuild
+
+
+OpenLoginJDK download
+
+https://www.openlogic.com/openjdk-downloads
