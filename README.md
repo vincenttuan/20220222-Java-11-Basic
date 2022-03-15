@@ -6,5 +6,5 @@ https://github.com/ojdkbuild/ojdkbuild
 
 或
 
-OpenLoginJDK download
+OpenLogicJDK download
 https://www.openlogic.com/openjdk-downloads
